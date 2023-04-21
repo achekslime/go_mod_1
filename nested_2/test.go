@@ -1,6 +1,6 @@
 package nested
 
 func GetNestedMessage() string {
-	return "nested message"
 
+	return "nested messag"
 }
