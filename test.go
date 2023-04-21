@@ -1,5 +1,5 @@
 package go_mod_1
 
-func getMessage() string {
+func GetMessage() string {
 	return "go_mod_1"
 }
